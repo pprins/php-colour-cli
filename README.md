@@ -25,4 +25,4 @@ Colourfulcli::info("My text");
 ```
 
 ### Contact
-**http://www.cleverweb.nl**
+**http://www.keyboardninja.eu**
